@@ -12,3 +12,10 @@ add();
 
   
 >>>>>>> newBranch
+
+const hey =()=>{
+
+    let reply= "hi";
+    console.log(reply);
+}
+hey();
